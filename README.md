@@ -24,10 +24,11 @@ Simon Says is a classic memory game where players must repeat a sequence of colo
 4. If you succeed, the sequence gets longer!
 5. If you make a mistake, the game restarts.
 
-📂 Installation
-1️⃣ Clone the Repository
+## 📂 Installation
+1. Clone the Repository
 git clone https://github.com/your-username/Simon-Says-Game.git
-2. Open the `index.html` file in your browser.
+
+2.Open the `index.html` file in your browser.
 
 ## 📌 Future Enhancements
 - Add different difficulty levels
